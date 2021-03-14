@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rshafiee
+- 👋 Hi, I’m Rahman (@rshafiee)
 - 👀 I’m interested in programming and solving problems.
 - 🌱 I’m currently doing a web development course at Le Wagon Berlin and am learning a lot of fun and new things about web applications, front and back-end development and programming in general.
 - 💞️ I’m looking to collaborate on different projects, especially projects related to TechforEd. 
